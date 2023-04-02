@@ -1,0 +1,21 @@
+.main{
+    background:url(./assests/raimond-klavins-KKm1ua7MSf0-unsplash.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-body{
+    text-align: center;
+}
+
+.contacts {
+    width: 70%;
+    background-color: rgba(220, 235, 245, 0.719);
+    margin-top: 10%;
+    padding: 30px;
+}
+
+.form-group{
+    margin-bottom: 10px;
+}
